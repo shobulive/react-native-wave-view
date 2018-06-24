@@ -5,6 +5,7 @@ It is bootstrapped with [Create React Native App](https://github.com/react-commu
 
 ## Demo
 
+| Demo1                               | Demo2                                |
 | ----------------------------------- | ------------------------------------ |
 | ![Preview](screenshot/waveView.gif) | ![Preview](screenshot/waveView2.gif) |
 
